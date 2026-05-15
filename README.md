@@ -1,4 +1,4 @@
-﻿## Ali Cem Özkara — QA Automation Engineer
+## AC — QA Automation Engineer
 
 Senior automation engineer specializing in test infrastructure, desktop
 automation, and AI-assisted QA workflows.
@@ -15,7 +15,7 @@ architecture, CI integration, and documentation that survives team turnover.
 - Languages: Python, C#, PowerShell
 - CI/CD: GitHub Actions, Azure DevOps
 - Infrastructure: VMware, PowerShell DSC
-- AI/Agents: Multi-agent orchestration, LLM-assisted test generation
+- AI / Agents: Multi-agent orchestration, LLM-assisted test generation
 
 ---
 
@@ -34,7 +34,7 @@ architecture, CI integration, and documentation that survives team turnover.
 |---|---|---|
 | [playwright-e2e-framework](https://github.com/ac0z/playwright-e2e-framework) | Production-grade Playwright framework with POM, CI, Allure reporting | Python, Playwright, GitHub Actions |
 | [flaui-desktop-automation](https://github.com/ac0z/flaui-desktop-automation) | Windows desktop app test suite using FlaUI and WinAppDriver | C#, FlaUI, NUnit |
-| [ai-test-orchestration](https://github.com/ac0z/ai-test-orchestration) | Multi-agent system for test case generation and coverage gap analysis | Python, LLM APIs |
+| [ai-test-orchestration](https://github.com/ac0z/ai-test-orchestration) | Multi-agent pipeline for test case generation and coverage gap analysis | Python, LLM APIs |
 | [powershell-infra-toolkit](https://github.com/ac0z/powershell-infra-toolkit) | Modular PowerShell toolkit for environment provisioning and validation | PowerShell |
 | [testops-reporting-pipeline](https://github.com/ac0z/testops-reporting-pipeline) | CI-integrated test result aggregation, trend analysis, and dashboards | Python |
 
