@@ -1,10 +1,8 @@
-## AC — QA Automation Engineer
+# AC — QA Automation Engineer
 
-Senior automation engineer specializing in test infrastructure, desktop
-automation, and AI-assisted QA workflows.
+Senior automation engineer specializing in test infrastructure, desktop automation, and AI-assisted QA workflows.
 
-I build systems that teams actually use in production — frameworks with clear
-architecture, CI integration, and documentation that survives team turnover.
+I build systems that teams actually use in production — frameworks with clear architecture, CI integration, and documentation that survives team turnover.
 
 ---
 
@@ -42,5 +40,4 @@ architecture, CI integration, and documentation that survives team turnover.
 
 **Availability**
 
-Open to freelance contracts. Senior-level framework architecture,
-TestOps infrastructure, desktop automation, and AI-assisted QA systems.
+Open to freelance contracts. Senior-level framework architecture, TestOps infrastructure, desktop automation, and AI-assisted QA systems.
