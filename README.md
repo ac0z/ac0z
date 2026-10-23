@@ -1,43 +1,110 @@
-# AC — QA Automation Engineer
+# AC — Senior QA Automation & Test Infrastructure Engineer
 
-Senior automation engineer specializing in test infrastructure, desktop automation, and AI-assisted QA workflows.
+**QA Automation | TestOps | Agentic AI | Infrastructure Engineering**
 
-I build systems that teams actually use in production — frameworks with clear architecture, CI integration, and documentation that survives team turnover.
+Senior Test Automation Engineer with a background in software engineering, infrastructure automation, and AI-driven quality engineering.
 
----
+I design and build automation systems that go beyond executing test cases — from scalable test frameworks and CI/CD pipelines to autonomous QA agents, environment provisioning, and intelligent failure analysis.
 
-**Core stack**
-
-- UI Automation: Playwright, Selenium WebDriver
-- Desktop Automation: FlaUI, WinAppDriver
-- Languages: Python, C#, PowerShell
-- CI/CD: GitHub Actions, Azure DevOps
-- Infrastructure: VMware, PowerShell DSC
-- AI / Agents: Multi-agent orchestration, LLM-assisted test generation
+My work focuses on eliminating repetitive engineering tasks, improving test reliability, and connecting development, testing, and infrastructure into maintainable workflows.
 
 ---
 
-**Current focus areas**
+## Core Tech Stack
 
-- Agentic AI workflows for test generation and failure triage
-- Windows desktop application automation (FlaUI)
-- TestOps platform design and reporting pipelines
-- End-to-end framework architecture for cross-platform products
-
----
-
-**Selected projects**
-
-| Repository | Description | Stack |
-|---|---|---|
-| [playwright-e2e-framework](https://github.com/ac0z/playwright-e2e-framework) | Production-grade Playwright framework with POM, CI, Allure reporting | Python, Playwright, GitHub Actions |
-| [flaui-desktop-automation](https://github.com/ac0z/flaui-desktop-automation) | Windows desktop app test suite using FlaUI and WinAppDriver | C#, FlaUI, NUnit |
-| [ai-test-orchestration](https://github.com/ac0z/ai-test-orchestration) | Multi-agent pipeline for test case generation and coverage gap analysis | Python, LLM APIs |
-| [powershell-infra-toolkit](https://github.com/ac0z/powershell-infra-toolkit) | Modular PowerShell toolkit for environment provisioning and validation | PowerShell |
-| [testops-reporting-pipeline](https://github.com/ac0z/testops-reporting-pipeline) | CI-integrated test result aggregation, trend analysis, and dashboards | Python |
+| Domain | Technologies |
+|---|---|
+| **Test Automation** | Playwright, Selenium, FlaUI, WinAppDriver, NUnit, Pytest |
+| **Languages** | C#, Python, PowerShell, SQL |
+| **CI/CD & DevOps** | GitHub Actions, Jenkins, Azure DevOps, Docker |
+| **Infrastructure** | Windows Server, Linux, VMware, Hyper-V, WSL2 |
+| **API Testing** | Postman, Newman, REST APIs |
+| **AI & Agents** | LLM Integration, Multi-Agent Orchestration, AI-Assisted Testing, MCP |
+| **Test Management** | Jira, TestOps, Regression Automation, Test Reporting |
+| **Data & Observability** | SQL Server, Elasticsearch, Log Analysis |
 
 ---
 
-**Availability**
+## What I Build
 
-Open to freelance contracts. Senior-level framework architecture, TestOps infrastructure, desktop automation, and AI-assisted QA systems.
+### Agentic QA & AI Orchestration
+- Multi-agent QA pipelines integrating Jira, browser automation, and Git workflows.
+- AI-assisted test case generation and automated test implementation.
+- Human-in-the-loop approval workflows for autonomous QA agents.
+- Automated failure investigation, evidence collection, and bug reporting.
+- Agent execution guardrails, tool orchestration, and recovery mechanisms.
+
+### Test Automation Architecture
+- Scalable Playwright frameworks using C#/.NET and Python.
+- Windows desktop automation with FlaUI, NUnit, and WinAppDriver.
+- Functional, smoke, regression, and API automation.
+- Custom test runners, HTML reports, and CI-integrated execution.
+- Reusable test utilities and maintainable framework architecture.
+
+### Infrastructure & TestOps
+- Automated Windows Server provisioning and environment configuration.
+- VMware-based virtual machine deployment and test infrastructure management.
+- PowerShell automation for deployment, validation, and diagnostics.
+- Dockerized test environments and CI/CD integration.
+- Centralized test result collection, reporting, and troubleshooting.
+
+### Security & Reliability
+- Security-oriented functional testing and API validation.
+- Authentication, authorization, and access-control testing.
+- Log analysis, crash reproduction, and root-cause investigation.
+- Hardware/software integration testing, including biometric and access-control devices.
+
+---
+
+## Selected Engineering Work
+
+**Agentic QA Orchestrator**
+
+Designed a multi-agent QA workflow connecting Jira issues, automated application inspection, test generation, evidence collection, human approvals, and Git pull requests.
+
+`Python` `C#` `Playwright` `Docker` `Jira` `LLM Agents`
+
+**C# Playwright Automation Framework**
+
+Developed reusable web automation infrastructure with NUnit, browser lifecycle management, regression execution, and CI integration.
+
+`C#` `.NET` `Playwright` `NUnit` `CI/CD`
+
+**Windows Infrastructure Automation**
+
+Built PowerShell-based automation for virtual machine provisioning, Windows Server configuration, application deployment, dependency installation, and environment validation.
+
+`PowerShell` `VMware` `Windows Server` `SQL Server`
+
+**Desktop & API Test Automation**
+
+Implemented desktop application test suites, reusable automation components, API validation workflows, and custom reporting pipelines.
+
+`FlaUI` `NUnit` `Postman` `Newman` `C#`
+
+**AI-Assisted Engineering Tools**
+
+Exploring agent orchestration, MCP integrations, reverse engineering, and AI-assisted developer tooling for testing, diagnostics, and automation.
+
+`Python` `LLMs` `MCP` `Tool Orchestration`
+
+---
+
+## Currently Exploring
+
+- Autonomous QA agents and self-improving testing workflows
+- Agentic development using MCP and structured tool execution
+- Intelligent failure triage and root-cause analysis
+- TestOps platforms and unified automation infrastructure
+- Security testing and infrastructure reliability engineering
+- Reverse engineering and hardware/software integrations
+
+---
+
+## Open to Collaboration
+
+Available for freelance and open-source collaboration involving:
+
+**Test Automation Architecture • AI-Assisted QA • TestOps • CI/CD • Infrastructure Automation • Developer Tooling**
+
+Interested in building reliable engineering systems that reduce manual effort and make complex workflows easier to operate.
